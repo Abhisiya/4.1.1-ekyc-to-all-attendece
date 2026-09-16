@@ -340,5 +340,11 @@
         "key": "key202020",
         "expirydate": "18-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dca5d8163bff323",
+        "key": "key202021",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
     }
 ]
